@@ -13,13 +13,13 @@ const StudioNavbar = (props: NavbarProps) => {
 
         <div className='hidden md:flex p-5 rounded-lg justify-center border-2 border-accent'>
           <h1 className='font-bold text-white'>
-            Pamiętaj o zasadach tworzeniu bloga zamieszczonych tutaj 👉
+            Pamiętaj o zasadach tworzeniu bloga zamieszczonych
           </h1>
           <Link
             href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'
             className='text-accent font-bold ml-2 underline'
           >
-            kliknij mnie
+            tutaj
           </Link>
         </div>
       </div>
